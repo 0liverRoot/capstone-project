@@ -1,0 +1,77 @@
+Capstone Project Ideas
+
+Project 1: Local Crop Planning Assistant for Urban Gardens
+Description:
+This web app helps urban gardeners plan their crops based on local climate,
+available space, and seasonal factors. Users can input their location, garden
+size, and soil type to receive a customized planting schedule and real-time
+weather alerts. The goal is to promote sustainable food production by making
+it easier for individuals to grow their own food efficiently.
+
+MERN Tech Stack & APIs:
+    MongoDB – Stores user gardens, plant selections, and schedules.
+    Express.js & Node.js – Backend logic for crop recommendations.
+    React – Frontend UI for user input and garden planning.
+
+    Potential APIs:
+    - USDA Plant Hardiness API (for climate zone-based recommendations)
+    - OpenWeather API (for weather-based planting alerts)
+    - Google Maps API (for soil and sun exposure insights)
+
+Project 2: Disaster Resilience Hub
+Description:
+This app provides real-time risk assessments, emergency preparedness plans,
+and local disaster resources for users based on their location. It helps
+communities stay informed about climate-related disasters like wildfires,
+floods, and hurricanes. Users receive personalized checklists, evacuation
+routes, and resource maps to improve resilience.
+
+MERN Tech Stack & APIs:
+    MongoDB – Stores user profiles, preparedness plans, and resources.
+    Express.js & Node.js – Backend logic for risk assessments and notifications.
+    React – Interactive UI for emergency planning and alerts.
+
+    Potential APIs:
+    - NOAA/NWS API (for real-time disaster alerts)
+    - Google Maps API (for shelters and evacuation routes)
+    - OpenWeather API (for extreme weather tracking)
+    - FEMA API (for official disaster response guidelines)
+
+
+Project 3: Personal Carbon Footprint Tracker
+Description:
+This app allows users to track their daily carbon footprint by logging
+activities such as transportation, diet, energy use, and shopping habits.
+Users receive personalized tips for reducing emissions, along with data
+visualization to track progress. The goal is to make sustainability
+actionable by helping individuals measure and minimize their impact.
+
+MERN Tech Stack & APIs:
+	MongoDB – Stores user data, logs, and emission history.
+	Express.js & Node.js – Backend for calculations and recommendations.
+	React – Frontend dashboard for user engagement.
+
+    Potential APIs:
+	- CoolClimate API (for carbon footprint calculations)
+	- Google Maps API (for route-based transportation emissions)
+	- OpenWeather API (for energy use suggestions based on weather)
+	- OpenAI API (for AI-driven sustainability tips)
+
+
+Project 4: Nutrition and Food Security Tracker
+Description:
+This platform helps users track their daily nutrition intake, food security
+status, and access to affordable, healthy food. It can include features like
+meal logging, budget-friendly grocery recommendations, and community food
+resource mapping. The goal is to help individuals and families optimize
+nutrition while minimizing food waste and cost.
+
+MERN Tech Stack & APIs:
+	MongoDB – Stores user profiles, meal logs, and community food resources.
+	Express.js & Node.js – Handles backend logic and API requests.
+	React – Frontend for meal logging and visualization.
+
+    Potential APIs:
+	- USDA FoodData Central API (for nutrition data)
+	- Google Maps API (for locating food banks and affordable grocery stores)
+	- OpenAI API (for AI-generated meal plans based on user needs)

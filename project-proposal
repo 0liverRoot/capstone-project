@@ -15,14 +15,17 @@ Tech Stack
     Netlify or Vercel: For hosting the frontend.
 
 Focus of the Project
-  This will be a full-stack application, with equal emphasis on frontend user experience and backend data management. The goal is to provide personalized garden planning tools     through a smooth, responsive interface.
+  This will be a full-stack application, with equal emphasis on frontend user experience and backend data management. 
+  The goal is to provide personalized garden planning tools through a smooth, responsive interface.
 
 Project Type
   Responsive Website: Main platform.
   Mobile App (Stretch Goal): Using React Native for iOS and Android compatibility.
 
 Project Goal
-  The project aims to help users plan and manage their home gardens efficiently, taking into account local climate, available space, and preferred crops. Users will be able to:
+  The project aims to help users plan and manage their home gardens efficiently, taking into account local climate, 
+  available space, and preferred crops.
+  Users will be able to:
     Build a personalized garden plan
     View a seasonal planting calendar
     Estimate harvest yields
